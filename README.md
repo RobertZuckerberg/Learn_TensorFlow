@@ -19,5 +19,5 @@ PyCharm / Jupyter Notebook
 #### 练习实践
 
 - 波士顿房价数据集
-- [Andersons鸢尾花数据集](https://github.com/RobertZuckerberg/Learn_TensorFlow/tree/main/Iris)
+- [Anderson鸢尾花数据集](https://github.com/RobertZuckerberg/Learn_TensorFlow/tree/main/Iris)
 
