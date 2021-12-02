@@ -1,3 +1,5 @@
+# 提取花瓣长度、花瓣宽度两个属性进行训练
+
 import numpy as np
 import tensorflow as tf
 import pandas as pd
