@@ -1,4 +1,4 @@
-## Andersons鸢尾花数据集
+## Anderson鸢尾花数据集
 
 #### 简介
 
