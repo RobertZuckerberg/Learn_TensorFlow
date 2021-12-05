@@ -115,7 +115,7 @@ plt.rcParams['axes.unicode_minus']="False"
 # ax.set_xlabel('花萼-width')
 # ax.set_ylabel('花瓣-length')
 # ax.set_zlabel('花瓣-width')
-# ax.set_title('Anderson鸢尾花训练数据集\n(Bule->Setosa | Red->Versicolor | Green- >Virginica )',fontsize=16)
+# ax.set_title('Anderson鸢尾花训练数据集\n(Blue->Setosa | Red->Versicolor | Green- >Virginica )',fontsize=16)
 # plt.show()
 
 # 绘制训练集损失变化曲线
@@ -144,7 +144,7 @@ plt.show()
 # ax.set_xlabel('花萼-width')
 # ax.set_ylabel('花瓣-length')
 # ax.set_zlabel('花瓣-width')
-# ax.set_title('Anderson鸢尾花测试数据集\n(Bule->Setosa | Red->Versicolor | Green- >Virginica )',fontsize=16)
+# ax.set_title('Anderson鸢尾花测试数据集\n(Blue->Setosa | Red->Versicolor | Green- >Virginica )',fontsize=16)
 # plt.show()
 
 # 绘制测试集损失变化曲线
