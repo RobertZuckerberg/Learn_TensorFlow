@@ -115,7 +115,7 @@ ax.scatter(x_train[:, 0], x_train[:, 1], x_train[:, 2], c=y_train, cmap='brg')
 ax.set_xlabel('花萼-length')
 ax.set_ylabel('花萼-width')
 ax.set_zlabel('花瓣-length')
-ax.set_title('Andersons鸢尾花训练数据集\n(Bule->Setosa | Red->Versicolor | Green- >Virginica )',fontsize=16)
+ax.set_title('Anderson鸢尾花训练数据集\n(Bule->Setosa | Red->Versicolor | Green- >Virginica )',fontsize=16)
 plt.show()
 
 # 绘制训练集损失变化曲线
@@ -144,7 +144,7 @@ ax.scatter(x_test[:, 0], x_test[:, 1], x_test[:, 2], c=y_test, cmap='brg')
 ax.set_xlabel('花萼-length')
 ax.set_ylabel('花萼-width')
 ax.set_zlabel('花瓣-length')
-ax.set_title('Andersons鸢尾花测试数据集\n(Bule->Setosa | Red->Versicolor | Green- >Virginica )',fontsize=16)
+ax.set_title('Anderson鸢尾花测试数据集\n(Bule->Setosa | Red->Versicolor | Green- >Virginica )',fontsize=16)
 plt.show()
 
 # 绘制测试集损失变化曲线
