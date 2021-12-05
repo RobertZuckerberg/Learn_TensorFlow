@@ -110,7 +110,7 @@ cm_bg = mpl.colors.ListedColormap(['#A0FFA0', '#FFA0A0', '#A0A0FF'])
 plt.scatter(x_train[:, 0], x_train[:, 1],  c=y_train, cmap='brg')
 plt.xlabel('花萼-width')
 plt.ylabel('花瓣-length')
-plt.title('Anderson鸢尾花训练数据集\n(Bule->Setosa | Red->Versicolor | Green- >Virginica )',fontsize=16)
+plt.title('Anderson鸢尾花训练数据集\n(Blue->Setosa | Red->Versicolor | Green- >Virginica )',fontsize=16)
 plt.show()
 
 # 绘制训练集损失变化曲线
@@ -137,7 +137,7 @@ cm_bg = mpl.colors.ListedColormap(['#A0FFA0', '#FFA0A0', '#A0A0FF'])
 plt.scatter(x_test[:, 0], x_test[:, 1],  c=y_test, cmap='brg')
 plt.xlabel('花萼-width')
 plt.ylabel('花瓣-length')
-plt.title('Anderson鸢尾花测试数据集\n(Bule->Setosa | Red->Versicolor | Green- >Virginica )',fontsize=16)
+plt.title('Anderson鸢尾花测试数据集\n(Blue->Setosa | Red->Versicolor | Green- >Virginica )',fontsize=16)
 plt.show()
 
 # 绘制测试集损失变化曲线
